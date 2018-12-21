@@ -1,0 +1,4 @@
+10 Rene Elizalde 200,00
+11 Juan Lasso 100,20
+12 Juan Lasso 100,20
+13 Mario Valarezo 100,3

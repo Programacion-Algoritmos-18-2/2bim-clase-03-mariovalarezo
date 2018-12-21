@@ -1,0 +1,2 @@
+10;Rene;Elizalde;200.00
+11;Juan;Lasso;100.20
